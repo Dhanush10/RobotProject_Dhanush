@@ -11,7 +11,7 @@ FirstSeleniumTest
     Set Browser Implicit Wait    5
     Input Text          name=q                 Facebook.com
     Press Keys          name=q          ENTER
-    Sleep          4 
+    Sleep          6
     Close Browser
     
 LoginTest
