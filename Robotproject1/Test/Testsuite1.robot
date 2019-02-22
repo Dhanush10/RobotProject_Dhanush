@@ -16,7 +16,7 @@ FirstSeleniumTest
     
 LoginTest
     Open Browser           https://www.google.com/gmail/        Chrome   
-    Set Browser Implicit Wait         6 
+    Set Browser Implicit Wait         5
     Input Text            name=identifier      dhanushirtt@gmail.com 
     Click Element         xpath=//span[@class='RveJvd snByac'][contains(.,'Next')]
     Input Text            name=password         VD123456
